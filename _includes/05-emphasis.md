@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. *Cireson Cognos Spotlight Airwatch Cisco Meraki Panorama Orion Splunk Microsoft SQL Server Microsoft Office: Word, Excel, PowerPoint, SharePoint
